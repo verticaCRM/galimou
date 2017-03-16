@@ -1,0 +1,34 @@
+.theme-color1-dk{ color:#226D51 !important; }
+.theme-color1-lt{ color:#44d69e !important; }
+.theme-color2-dk{ color:#0b106b !important; }
+.theme-color2-lt{ color:#adb1ed !important; }
+.theme-background1-dk{ background-color:#226D51 !important; fill:#226D51}
+.theme-background1-lt{ background-color:#44d69e !important; fill:#44d69e}
+.theme-background2-dk{ background-color:#0b106b !important; fill:#0b106b}
+.theme-background2-lt{ background-color:#adb1ed !important; fill:#adb1ed}
+.theme-border1-dk{ border: 3px solid #226D51 !important; }
+.theme-border1-top-dk{ border-top: 4px solid #226D51 !important; }
+.theme-border1-lt{ border: 3px solid #44d69e !important; }
+.theme-border2-dk{ border: 3px solid #0b106b !important; }
+.theme-border2-lt{ border: 3px solid #adb1ed !important; }
+
+.theme-button1-dk{ background-color:#226d51 !important; color:#44d69e !important; padding:4px !important; border:0 !important;}
+.theme-button1-lt{ background-color:#44d69e !important; color:#226d51 !important; padding:4px !important; border:0 !important;}
+.theme-button2-dk{ background-color:#0b106b !important; color:#adb1ed !important; padding:4px !important; border:0 !important;}
+.theme-button2-lt{ background-color:#adb1ed !important; color:#0b106b !important; padding:4px !important; border:0 !important;}
+
+.theme-color1-dk a, .theme-color1-dk i { color:#226d51 !important;}
+.theme-color1-lt a, .theme-color1-lt i { color:#44d69e !important}
+.theme-color2-dk a, .theme-color2-dk i { color:#0b106b !important}
+.theme-color2-lt a, .theme-color2-lt i { color:#adb1ed !important}
+
+.theme-background1-dk a:hover, .theme-background1-dk i:hover { background-color:#226d51 !important;}
+.theme-background1-lt a:hover, .theme-background1-lt i:hover { background-color:#44d69e !important}
+.theme-background2-dk a:hover, .theme-background2-dk i:hover { background-color:#0b106b !important}
+.theme-background2-lt a:hover, .theme-background2-lt i:hover { background-color:#adb1ed !important}
+a:hover { color: #adb1ed; }
+a { color: #0b106b; }
+.tablepress {border:3px solid #000 !important}
+.column-2, .column-4{border-right:3px solid #000 !important}
+
+.camera{display:inline-block;height:100px;width:130px;float:right;margin:1em}

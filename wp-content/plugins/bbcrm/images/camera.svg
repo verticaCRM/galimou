@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="/wp-content/plugins/bbcrm/css/style-themecolors.css"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg5129"
+   version="1.1"
+   viewBox="0 0 85.09 59.34"
+   preserveAspectRatio="none"
+   >
+  <defs
+     id="defs5123" />
+  <metadata
+     id="metadata5126">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-31.188907,-164.49563)"
+     id="layer1">
+    <g
+       id="g5709">
+      <path
+         id="camera1"
+         class="theme-background1-dk" style="fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13467176"
+         d="m 102.37504,170.67305 c -1.15952,-0.51448 -2.05913,-1.29018 -2.704205,-2.19111 l -0.643731,-1.15684 c -0.899606,-1.54333 -3.217308,-2.82947 -5.019214,-2.82947 H 82.164856 c -1.931192,0 -4.248894,1.28614 -5.277786,2.70017 l -0.77167,1.28614 c -0.645075,0.90093 -1.673967,1.67663 -2.702862,2.19111 H 48.439013 c -0.77167,-0.25729 -1.287464,-0.7717 -1.287464,-1.29018 0,-1.03022 -1.416745,-1.80055 -3.347937,-1.80055 H 41.10075 c -1.803257,0 -3.346594,0.77033 -3.346594,1.80055 0,0.51848 -0.255885,1.03293 -0.515793,1.29018 h -0.771671 c -2.832144,0 -5.277785,2.44429 -5.277785,5.40573 v 42.48085 c 0,2.95739 2.445641,5.27642 5.277785,5.27642 h 74.532728 c 2.96009,0 5.27644,-2.31903 5.27644,-5.27642 v -42.48085 c 0,-2.96144 -2.31635,-5.40573 -5.27644,-5.40573 h -8.62438" />
+      <path
+         id="camera2"
+         class="theme-background1-lt" style="fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13467176"
+         d="m 84.353272,218.55963 c -11.715096,0 -21.240428,-9.52668 -21.240428,-21.24314 0,-11.71103 9.525332,-21.23771 21.240428,-21.23771 11.713749,0 21.239078,9.52668 21.239078,21.23771 0,11.71646 -9.525329,21.24314 -21.239078,21.24314 v 0" />
+      <path
+         id="camera3"
+         class="theme-background1-lt" style="fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13467176"
+         d="m 42.38821,182.1282 h -1.929844 c -1.803257,0 -3.349289,-1.28744 -3.349289,-2.8308 0,-1.6753 1.546032,-2.83348 3.349289,-2.83348 h 1.929844 c 1.932539,0 3.346594,1.15818 3.346594,2.83348 0,1.54336 -1.414055,2.8308 -3.346594,2.8308 v 0" />
+      <path
+         id="camera4"
+         class="theme-background2-lt" style="fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13467176"
+         d="m 84.353272,181.35654 c -8.753665,0 -15.961295,7.07835 -15.961295,15.95995 0,8.75502 7.20763,15.96534 15.961295,15.96534 8.882948,0 15.962638,-7.21032 15.962638,-15.96534 0,-8.8816 -7.07969,-15.95995 -15.962638,-15.95995 v 0" />
+    </g>
+  </g>
+</svg>
